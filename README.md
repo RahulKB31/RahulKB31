@@ -1,17 +1,25 @@
-Hi there 👋
+## **Hi there** 👋
 
-                                                                 ## I'm Rahul
 
-I have technical experience and interest in:
+# **I'm Rahul**
+
+
+
+
+> ### I have technical experience and interest in:
+
+
 - Python
 - Machine Learning
+- Natural Language Processing
+- Computer Vision
 
-Languages and Tools:
+### Languages and Tools:
 
 
 
 
-📫 How to reach me:
+### 📫 How to reach me:
 
 
 <!--
