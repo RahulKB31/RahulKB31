@@ -1,6 +1,6 @@
 Hey, Nice to See you 👋
 
-													I'm Rahul
+I'm Rahul
 
 <!--
 **RahulKB31/RahulKB31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
