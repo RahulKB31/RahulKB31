@@ -1,38 +1,35 @@
 ## **Hi there** 👋
 
-
-# **I'm Rahul**
-
-
-
+# **I'm Rahul** 😃
 
 > ### I have technical experience and interest in:
-
-
 - Python
 - Machine Learning
 - Natural Language Processing
 - Computer Vision
 
-### Languages and Tools:
+<br>
 
+> ### Languages and Tools:
+- Python - Flask - Django - PowerBI - Tableau - MySQL - MongoDB - Cassandra - Machine Learning - Sklearn - HTML - AWS
 
+<br>
 
+> ### 📫 How to reach me:
+Twitter : [🔗 Link](https://twitter.com/Rahul_Youth_AI)
+<br>
+LinkedIn : [🔗 Link](https://www.linkedin.com/in/rahul-k-b-31101010/)
 
-### 📫 How to reach me:
+<br>
 
+<a href="https://github.com/RahulKB31">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=RahulKB31&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Rahul's GitHub Stats" />
+</a>
 
-<!--
-**RahulKB31/RahulKB31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+✍️ Latest Blog Post:
+- a
+- b
+- c
+- d
+--->
