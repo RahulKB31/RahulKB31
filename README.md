@@ -3,11 +3,10 @@ Hey, Nice to See you 👋
 I'm Rahul
 
 I have technical experience and interest in -
-Computer vision
-Natural Language Processing
-Embedded systems
-Robotics
-Languages and
+
+- Python
+- Machine Learning
+
 
 <!--
 **RahulKB31/RahulKB31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
