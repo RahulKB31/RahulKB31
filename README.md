@@ -1,11 +1,17 @@
-Hey, Nice to See you 👋
+Hi there 👋
 
 I'm Rahul
 
-I have technical experience and interest in -
-
+I have technical experience and interest in:
 - Python
 - Machine Learning
+
+Languages and Tools:
+
+
+
+
+📫 How to reach me:
 
 
 <!--
