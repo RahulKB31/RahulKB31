@@ -11,7 +11,7 @@
 <br>
 
 > ### Languages and Tools:
-- Python - Flask - Django - PowerBI - Tableau - MySQL - MongoDB - Cassandra - Machine Learning - Sklearn - HTML - AWS
+- Python - Flask - Django - PowerBI - Tableau - MySQL - MongoDB - Cassandra - Machine Learning - Sklearn - HTML - AWS - Docker - CircleCI
 
 <br>
 
