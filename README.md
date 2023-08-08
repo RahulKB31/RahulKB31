@@ -5,7 +5,7 @@
 > ### I have technical experience and interest in:
 - Python
 - Machine Learning
-- Deep Learning
+- Deep Learning ANN
 - Natural Language Processing
 - Computer Vision
 
