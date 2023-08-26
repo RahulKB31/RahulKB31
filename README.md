@@ -12,7 +12,7 @@
 <br>
 
 > ### Languages and Tools:
-- Python - C - C++ - Flask - Django - PowerBI - Tableau - MySQL - Excel - MongoDB - Cassandra - Machine Learning - Azure - AWS - Azure - HTML - CSS - Dockerhub
+- Python - C - C++ - Flask - Django - PowerBI - Tableau - MySQL - Excel - MongoDB - Cassandra - Machine Learning - Azure - AWS - GoogleCloud - HTML - CSS - Dockerhub
 
 <br>
 
