@@ -20,6 +20,8 @@
 Twitter : [🔗 Link](https://twitter.com/Rahul_Youth_AI)
 <br>
 LinkedIn : [🔗 Link](https://www.linkedin.com/in/rahul-k-b-31101010/)
+<br>
+Email Id: rahulbasavaraj1@gmail.com
 
 <br>
 
