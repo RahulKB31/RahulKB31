@@ -19,7 +19,7 @@
 > ### 📫 How to reach me:
 Twitter : [🔗 Link](https://twitter.com/Rahul_Youth_AI)
 <br>
-LinkedIn : [🔗 Link](https://www.linkedin.com/in/rahul-k-b-31101010/)
+LinkedIn : [🔗 Link]([https://www.linkedin.com/in/rahul-k-b-31101010/](https://www.linkedin.com/in/rahul-kb-ai/))
 <br>
 Email Id: rahulbasavaraj1@gmail.com
 
